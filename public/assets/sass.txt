@@ -1,0 +1,1 @@
+sass  --watch C:\Users\srjoy\Dropbox\SR Academy\SR Academy\assets\scss\main.scss:C:\Users\naim\Dropbox\Matiour\SR Academy\SR Academy\assets\css\style.css

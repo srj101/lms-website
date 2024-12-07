@@ -1,0 +1,40 @@
+$colors: (
+  common: (
+    white: #ffffff,
+    black: #000,
+  ),
+  heading: (
+    primary: #0a1f44,
+    // Sky Dark Blue
+    secondary: #4b78a8,
+    // A lighter complementary tone
+    b-light: #0a1f44,
+    // Sky Dark Blue
+  ),
+  grey: (
+    1: #e1e9f1,
+    // Light greyish blue
+    2: #c4d1e3,
+    // Soft greyish blue
+  ),
+  text: (
+    body: #e1e9f1,
+    // Light text for contrast on dark
+    1: #e1e9f1,
+    // Light text for contrast on dark
+    2: #a1b3d6,
+    // Slightly lighter for secondary text
+  ),
+  theme: (
+    1: #0a1f44,
+    // Sky Dark Blue
+    2: #f1f7ff,
+    // Light Sky Blue background color
+  ),
+  border: (
+    1: #e1e9f1,
+    // Soft light blue border
+    2: #4b78a8,
+    // Slightly darker border for contrast
+  ),
+);
